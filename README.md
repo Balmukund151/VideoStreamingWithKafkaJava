@@ -10,4 +10,5 @@ Streaming Video with Kafka using Java
 5. This has been tested by running on Eclipse.
 
 Note:- This is just a poc sort of project to play with kafka in java.
+
 References: https://opencv-java-tutorials.readthedocs.io/en/latest/
